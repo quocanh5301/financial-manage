@@ -1,4 +1,4 @@
-package com.example.myapplication
+package com.example.financialManagement
 
 import org.junit.Test
 
