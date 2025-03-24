@@ -1,4 +1,4 @@
-package com.example.financialManagement.util
+package com.example.financialManagement.core.util
 
 import android.app.NotificationChannel
 import android.app.NotificationManager
@@ -8,7 +8,7 @@ import android.content.Intent
 import android.util.Log
 import androidx.core.app.NotificationCompat
 import com.example.financialManagement.R
-import com.example.financialManagement.MainActivity
+import com.example.financialManagement.presentation.ui.MainActivity
 import com.google.firebase.messaging.FirebaseMessagingService
 import com.google.firebase.messaging.RemoteMessage
 

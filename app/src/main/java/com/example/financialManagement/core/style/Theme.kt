@@ -1,4 +1,4 @@
-package com.example.financialManagement.ui.theme
+package com.example.financialManagement.core.style
 
 import android.app.Activity
 import android.os.Build
